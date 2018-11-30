@@ -1,3 +1,45 @@
-.toto {
-	color: red;
+   .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+
+  .carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+    min-height:1px;
 }
+@media (max-width: 600px) {
+  .carousel-caption {
+    display: none; 
+  }
+}
+  footer {
+    background-color: #333F50;
+    padding: 25px;
+
+  }
+  #text a{
+      color: #ffffff;
+  }
+
+  #sec_id p{
+    color: #ffffff;
+  }
+
+  section{
+      background-color: #333F50
+
+  }
+  
+  .panel-dark{
+	  background: #333F50;
+	   height: 348px;
+  }
+  
+  .h4, .p{
+  	color: #ffffff;
+  }
+  
+  .well a{
+	  color: #3B51AC;
+  }
