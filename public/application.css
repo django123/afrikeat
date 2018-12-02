@@ -19,7 +19,7 @@
 
    /* footer */
   footer {
-    background-color: #333F50;
+    background-color: #E4E1E6;
     padding: 25px;
 
   }
@@ -29,7 +29,7 @@
   }
 
   #sec_id p{
-    color: blue;
+    color: #2196F3;
   }
 
   section {
@@ -42,7 +42,7 @@
   }
   
   .h4, .p{
-  	color: blue;
+  	color: #2196F3;
   }
   
   .well a{
@@ -70,4 +70,9 @@
    .design a {
      color: #fff;
    }
-  
+
+   /* couleur du texte précommande*/
+
+   #precom p{
+       background-color: #FFF2CC;
+   }
