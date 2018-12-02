@@ -15,30 +15,21 @@
   }
 }
 
-<<<<<<< HEAD
-   /* footer */
-  footer {
-    background-color: #E4E1E6;
-    padding: 25px;
-=======
 /* ici pour séparer les differents bloc */
 div[class*='spacer-'] { display: block; }
 .spacer-mini { height: 10px; }
->>>>>>> f1c80c8ac0cf415f5822df659971686590d2f919
+
 
  /* footer */
 footer {
-  background-color: #333F50;
-  padding: 25px;
+    background-color: #333F50;
+    padding: 25px;
 
-<<<<<<< HEAD
+}
   #sec_id p{
     color: #2196F3;
   }
 
-  section {
-      background-color: white;
-  }
   
   .panel-dark{
 	  background: white;
@@ -80,53 +71,21 @@ footer {
    #precom p{
        background-color: #FFF2CC;
    }
-=======
-}
+
  /* couleur du texte du footer */
 #text a{
     color: #ffffff;
-}
-
-#sec_id p{
-  color: blue;
 }
 
 section {
     background-color: white;
 }
 
-.panel-dark{
-  background: white;
-   height: 348px;
-}
 
-.h4, .p{
-	color: blue;
-}
 
-.well a{
-  color: #3B51AC;
-}
 
- .footer-bottom {
-   background-color: #15224f;
-   min-height: 30px;
-   width: 100%;
- }
- .copyright {
-   color: #fff;
-   line-height: 30px;
-   min-height: 30px;
-   padding: 7px 0;
- }
- .design {
-   color: #fff;
-   line-height: 30px;
-   min-height: 30px;
-   padding: 7px 0;
-   text-align: right;
- }
- .design a {
-   color: #fff;
- }  
->>>>>>> f1c80c8ac0cf415f5822df659971686590d2f919
+
+
+
+
+
